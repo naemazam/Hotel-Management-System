@@ -3,9 +3,10 @@ Password Protected Hotel Management System in C language.
 
 # 
 
-[](./hotel.PNG)
+![](./hotel.PNG)
 
 # LOGIN DETAILS:
 
 Username: user
+
 Password: pass
